@@ -3,6 +3,7 @@ wellcome to chennai:
 2.salem
 3.namakkal 
 4.dindugal
+5.covai
 
 thanks
 
